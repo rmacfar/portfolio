@@ -1,5 +1,3 @@
-README.md
-
 # Employee Churn Analysis 
 The purpose of this project is to use SQL to analyze employee attrition rates and flag any employees who fit the pattern of those who have previously left. 
 
@@ -270,3 +268,4 @@ ORDER BY distance_band
 
 ## Tools Used
 BigQuery, Claude, Google, Kaggle, GitHub
+
