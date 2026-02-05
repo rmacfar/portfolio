@@ -58,7 +58,7 @@ Across these projects, I aim to:
 - Practicing data storytelling by showcasing analysis' with clear, understandable summaries
 - Currently learning: Advanced SQL, Python, Looker Studio
 
-## AI Usage
+### AI Usage
 
 I use Claude (AI) as a productivity and learning tool throughout these projects. Specifically for:
 - Debugging code and understanding error messages on various platforms
