@@ -5,8 +5,6 @@ Hi all, my name is Rachelle - a healthcare administrator transitioning into the 
 This repository is a portfolio of projects I’ve built to practice and showcase my skills in **SQL, Python, R, and Excel**. 
 These projects are linked on my LinkedIn and are continuously evolving as I grow my skill set.
 
----
-
 ## Skills & Tools
 
 - **SQL** – querying, data cleaning, BigQuery  
