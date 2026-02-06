@@ -3,6 +3,14 @@ README.md
 # Employee Churn Analysis 
 The purpose of this project is to use SQL to analyze employee attrition rates and flag any employees who fit the pattern of those who have previously left. 
 
+## Dataset
+IBM HR Analytics Employee Attrition & Performance
+This analysis uses a fictional dataset created by IBM data scientists to model employee attrition. It contains 1,470 employee records with 35 features including demographics, job characteristics, satisfaction ratings, and attrition status.
+
+Source: Kaggle - IBM HR Analytics Attrition Dataset
+Original Creator: IBM Watson Analytics
+License: Open Database License (ODbL)
+
 ## Overview
 - Which job roles/departments have the highest and lowest exit rates?
 - Does workload and monthly income contribute to attrition? 
