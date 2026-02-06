@@ -23,25 +23,21 @@ Each folder contains a README with project context.
 - Employee Churn & Retention Analysis  
 - Healthcare and administrative datasets  
 - Business-focused queries and insights
-- Complete ✅
 
 ### Python 
 - Heart Disease Comparison Analysis    
 - Data cleaning and transformation  
 - Visualization and generating insight
-- Complete ✅
 
 ### R 
 - Overtime Cost-Benefit Analysis 
 - Data exploration and reporting  
 - Reproducible analysis workflows
-- In Progress 🔄
 
 ### Excel 
 - Customer Segmentation Analysis (RFM)
 - Pivot-table driven analysis  
 - Data cleaning and reporting workflows
-- In Progress 🔄
 
 ## Project Goals
 
